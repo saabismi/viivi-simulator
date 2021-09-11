@@ -1,0 +1,20 @@
+{
+  "name": "viivi-simulator",
+  "version": "0.0.1",
+  "description": "Viiviläispeli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "viivi",
+    "dog"
+  ],
+  "author": "saabismi",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^14.0.0"
+  }
+}
